@@ -1,5 +1,4 @@
-{
-    "film": [
+ [
     {
       "nameFilm": "Безумный макс",
       "englishName": "Mad Max",
@@ -7,5 +6,3 @@
       "ganre": "Боевик"
     }
     ]
-
-}
